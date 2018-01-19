@@ -57,7 +57,7 @@
         "provider": {
           "class": "web3.providers.rpc.HTTPProvider",
           "settings": {
-            "endpoint_uri": "http://127.0.0.1:8547",
+            "endpoint_uri": "http://127.0.0.1:8566",
             "request_kwargs": {
                 "timeout": 180
             }
@@ -300,7 +300,7 @@
       "provider": {
         "class": "web3.providers.rpc.HTTPProvider",
         "settings": {
-          "endpoint_uri": "https://mainnet.infura.io"
+          "endpoint_uri": ""
         }
       }
     },
@@ -311,7 +311,7 @@
       "provider": {
         "class": "web3.providers.rpc.HTTPProvider",
         "settings": {
-          "endpoint_uri": "https://ropsten.infura.io"
+          "endpoint_uri": ""
         }
       }
     },
@@ -322,7 +322,7 @@
     },
     "Tester": {
       "provider": {
-        "class": "web3.providers.tester.EthereumTesterProvider"
+        "class": "web3.providers.tester.CMBTokenTesterNode"
       }
     }
   }
