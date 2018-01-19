@@ -1,5 +1,5 @@
 
-.. image:: https://2.bp.blogspot.com/-Fhu5go1Tves/WlR04FQAjSI/AAAAAAAAKRs/Rvues44UWUsk3v-_QSCiczGTrOmOJvPyACLcBGAs/s1600/logomain.png
+.. image:: https://1.bp.blogspot.com/-5IRzjse_b08/WmIlvB8GNFI/AAAAAAAAKdg/IadB5glJkAcmHZ0AguN7XaQR7G8r3EGjgCLcBGAs/s320/COINMARKET.png
 
 Este sistema prove gerenciamento em linha de comando a Contratos Inteligentes na rede Ethereum , e gerenciamento de lançamento de ICO's. 
 
